@@ -7,7 +7,7 @@
   "repository": "bower/bower",
   "main": "lib",
   "bin": "bin/bower",
-  "homepage": "http://bower.io",
+  "homepage": "https://github.com/AmwayCorp/bower",
   "engines": {
     "node": ">=0.10.0"
   },
